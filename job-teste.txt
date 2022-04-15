@@ -1,0 +1,7 @@
+gclouc dataproc jobs submit spark \ # Executa um job do tipo spark
+--cluster=cluster-desafio-dataproc \ # Informações do Cluster
+--region="us-central1" \ # informações sobre a Região
+--class=org.apache.spark.examples.SparkPi \ # Definição da classe de exemplo do SparkPi
+--jars=file://usr/lib/spark/examples/jars/spark-examples.jar \ # Local do arquivo de execução
+-- 1000 # Argumento
+

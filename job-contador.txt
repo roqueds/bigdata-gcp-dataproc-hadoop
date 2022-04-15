@@ -1,0 +1,4 @@
+gclouc dataproc jobs submit pyspark \ # Executa o job tipo PySpark
+gs://desafio-dataproc-mroque/contador.py \ # Local do arquivo com o script Python
+--cluster=cluster-desafio-dataproc \ # Informações sobre o Cluster
+--region="us-central1" \ # Informações sobre a Região

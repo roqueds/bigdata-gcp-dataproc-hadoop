@@ -1,0 +1,16 @@
+Resultado do Desafio
+
+As 10 palavras que mais são utilizadas no livro de acordo com o job são:
+
+1. 'the' = 4066 vezes
+2. 'and' = 2969 vezes
+3. 'of' = 2746 vezes
+4. 'I' = 2719 vezes
+5. 'to' = 2144 vezes
+6. 'my' = 1631 vezes
+7. 'a' = 1394 vezes
+8. 'in' = 1129 vezes
+9. 'was' = 994 vezes
+10. 'that' =  986 vezes
+
+Obs.: A expressão '' é utilizada 1186 vezes, aparecendo na oitava posição, porém, não é uma palavra.
